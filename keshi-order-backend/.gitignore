@@ -1,5 +1,5 @@
 # =============================================================================
-# Spring Initializr 原生基础规则（保留原版，适配Maven）
+# Spring Initializr 原生基础规则
 # =============================================================================
 HELP.md
 target/
@@ -52,6 +52,7 @@ application-dev.properties
 application-local.yml
 application-local.yaml
 application-local.properties
+application-dev1.yml
 
 # =============================================================================
 # 业务上传文件（图片、文件，外卖菜品图片目录）
