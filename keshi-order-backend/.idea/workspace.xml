@@ -15,6 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Exception" />
+        <option value="MyBatis Mapper XML" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -26,6 +29,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="customMavenHome" value="D:\apache-maven-3.8.6" />
+        <option name="localRepository" value="D:\apache-maven-3.8.6\mvn_resp" />
         <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="userSettingsFile" value="D:\apache-maven-3.8.6\conf\settings.xml" />
       </MavenGeneralSettings>
@@ -45,15 +49,21 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;Spring Boot.KeshiOrderBackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/register-login&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/mycode/java/keshi-order-service/keshi-order-backend&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -89,6 +99,11 @@
       <workItem from="1794917864288" duration="2748000" />
       <workItem from="1794990624541" duration="4859000" />
       <workItem from="1795066751699" duration="965000" />
+      <workItem from="1795136563203" duration="7391000" />
+      <workItem from="1795145633898" duration="479000" />
+      <workItem from="1795160085261" duration="15063000" />
+      <workItem from="1795221008636" duration="24531000" />
+      <workItem from="1795259518620" duration="2228000" />
     </task>
     <servers />
   </component>
